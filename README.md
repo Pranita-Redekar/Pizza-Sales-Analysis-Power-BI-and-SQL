@@ -38,8 +38,8 @@ Using SQL for data analysis and Power BI for visualization, this project highlig
 |----------|-----------------|
 | 📊 Dashboard Output | <a href="https://github.com/Pranita-Redekar/Pizza-Sales-Analysis-Power-BI-and-SQL/tree/main/Output/Dashboard">Open Folder</a> |
 | 📁 Dataset | <a href="https://github.com/Pranita-Redekar/Pizza-Sales-Analysis-Power-BI-and-SQL/tree/main/Dataset">Open Folder</a> |
-| 📝 SQL Queries | <a href="https://github.com/Pranita-Redekar/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/Output/Pizza_Sales_Analysis.sql">Open Folder</a> |
-| 📈 Power BI Dashboard (.pbix) | <a href="https://github.com/Pranita-Redekar/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/Output/Pizza.pbix">Open Folder</a> |
+| 📝 SQL Queries | <a href="https://github.com/Pranita-Redekar/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/Output/Pizza_Sales_Analysis.sql">Open File</a> |
+| 📈 Power BI Dashboard (.pbix) | <a href="https://github.com/Pranita-Redekar/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/Output/Pizza.pbix">Open File</a> |
 
 <hr>
 
